@@ -34,7 +34,7 @@ Fitur yang dirancang meliputi registrasi, login, beranda, pencarian produk, kata
 | 🎨 Chairu Aisy Alsa | UI/UX Design Figma |
 | 💻 Anisa Putri | Development & Coding |
 | 📋 Dinar Zahara | System Modeling |
-| 🧪 <a href="https://github.com">Zikrul Khalis</a> | Testing & Integration |
+| 🧪 <a href="https://github.com/zikrulkhalis">Zikrul Khalis</a> | Testing & Integration |
 
 ---
 
