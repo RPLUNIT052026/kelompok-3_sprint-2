@@ -121,8 +121,6 @@ graph TD
 
 # Diagram Alur Data
 
-Ini aku sesuaikan juga dengan **arsitektur yang tadi**, jadi bukan lagi Flask khusus toko akun game, tetapi sistem ClosetGirls:
-
 ```mermaid
 sequenceDiagram
     participant U as User
