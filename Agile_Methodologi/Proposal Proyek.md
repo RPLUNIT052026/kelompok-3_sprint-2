@@ -86,6 +86,6 @@ closet-girls-digital-twin/
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| ... | ... | Scrum Master |
-| ... | ... | Development Team |
-| ... | ... | Development Team |
+| ChairuAisyAlsa | 240505133 | UX/UI Desain, ERD, Arsitektur & Dokumen |
+| aniisaapuutrii-ctrl | 250504033 | Flowchart |
+| dinarzahara | 250504031 | Project Chapter & Function Point |
