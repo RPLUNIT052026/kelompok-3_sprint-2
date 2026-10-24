@@ -517,8 +517,7 @@ sequenceDiagram
 
 ---
 
-# 14. Sequence Diagram Keluar Akun
-
+# 14. Sequence Diagram Logout
 ## Pengertian
 
 Menggambarkan pertukaran pesan ketika sesi pembeli diakhiri. Database tidak terlibat karena sesi diakhiri oleh Controller.
