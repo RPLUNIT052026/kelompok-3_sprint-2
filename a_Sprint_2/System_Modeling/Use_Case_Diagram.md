@@ -424,6 +424,8 @@ flowchart LR
     end
     Pembeli --- UC08
     UC08 -. include .-> UC07
+    UC07 -. include .-> UC07a
+    UC07 -. include .-> UC07b
 ```
 
 ### Deskripsi Use Case
