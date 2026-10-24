@@ -419,8 +419,8 @@ Use Case Checkout menggambarkan fitur ketika Pembeli melanjutkan produk di keran
 flowchart LR
     Pembeli(["👤 Pembeli"])
     subgraph Sistem["Website ClosetGirls ThriftShop"]
-        UC08(["Checkout"])
-        UC07(["Mengelola Keranjang"])
+        UC08(["Mengelola Keranjang"])
+        UC07(["Checkout"])
     end
  Pembeli --- UC08
     UC08 --- UC07
