@@ -257,23 +257,3 @@ erDiagram
 * **Mendukung pengembangan bertahap** — fitur dasar dapat dibuat terlebih dahulu kemudian dikembangkan sesuai kebutuhan.
 
 ---
-
-### Jadi bentuk akhirnya untuk tugas kalian:
-
-```text
-ARSITEKTUR SISTEM
-        │
-        ├── 1. Diagram Arsitektur
-        │
-        ├── 2. Penjelasan Layer
-        │
-        ├── 3. Alur Komunikasi
-        │     ├── Alur Pembelian
-        │     └── Alur Admin Menambah Produk
-        │
-        ├── 4. Rancangan Tabel Database
-        │
-        ├── 5. Teknologi yang Digunakan
-        │
-        └── 6. Kelebihan Arsitektur
-```
