@@ -422,6 +422,8 @@ flowchart LR
         UC08(["Checkout"])
         UC07(["Mengelola Keranjang"])
     end
+ Pembeli --- UC08
+    UC08 --- UC07
 ```
 
 ### Deskripsi Use Case
