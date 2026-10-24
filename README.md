@@ -32,7 +32,7 @@ Fitur yang dirancang meliputi registrasi, login, beranda, pencarian produk, kata
 | Anggota | Tanggung Jawab |
 |---|---|
 | 🎨 <a href="https://github.com/ChairuAisyAlsa">ChairuAisyAlsa (Chairu Aisy Alsa)</a> | UI/UX Design Figma |
-| 💻 <a href="https://github.com/aaniisaapuutrii-ctrl">aaniisaapuutrii (Anisa Putri)</a> | Development & Coding |
+| 💻 <a href="https://github.com/aaniisaapuutrii-ctrl">aaniisaapuutrii-ctrl (Anisa Putri)</a> | Development & Coding |
 | 📋 <a href="https://github.com/dinarzahara" >dinarzahara (Dinar Zahara)</a> | System Modeling |
 | 🧪 <a href="https://github.com/zikrulkhalis">zikrulkhalis (Zikrul Khalis)</a> | Testing & Integration |
 
