@@ -104,8 +104,8 @@ Riwayat Pesanan
 * [x] Skema database dirancang
 * [x] Fitur utama ditentukan
 * [x] Alur sistem dirancang
-* [ ] Implementasi kode
-* [ ] Testing
-* [ ] Deployment
+* [x] Implementasi kode
+* [x] Testing
+* [x] Deployment
 
 ````
