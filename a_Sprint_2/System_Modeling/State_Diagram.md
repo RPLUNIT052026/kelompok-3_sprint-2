@@ -97,7 +97,7 @@ Sistem menampilkan hasil checkout setelah pesanan berhasil dikonfirmasi.
 ### Profil
 Pembeli melihat informasi akun.
 
-### Keluar Akun
+### Logout Akun
 Pembeli melakukan konfirmasi untuk keluar dari sistem dan kembali ke halaman Login.
 
 ## 5. Kesimpulan
