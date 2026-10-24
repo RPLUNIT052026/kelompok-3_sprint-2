@@ -382,8 +382,7 @@ flowchart LR
         UC07b(["Melihat Isi Keranjang"])
     end
     Pembeli --- UC07
-    UC07 -. include .-> UC07a
-    UC07 -. include .-> UC07b
+
 ```
 
 ### Deskripsi Use Case
