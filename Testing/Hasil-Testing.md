@@ -22,7 +22,7 @@ Test otomatis menjalankan **kode asli** di folder `js/` pada lingkungan browser 
 | Node.js (test otomatis) | v24.21.0 |
 | Browser (test fungsional) | Google Chrome Version 154.0.8037.98 |
 | Perangkat/OS | Axioo HYPE 7 amd x8/Windows 11 |
-| Cara menjalankan app | buka `index.html` |
+| Cara menjalankan code | buka `index.html` |
 
 ## 4. Menjalankan test otomatis
 
